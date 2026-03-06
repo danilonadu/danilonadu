@@ -1,5 +1,5 @@
 Meu nome é Danilo Amaral Nadu e eu tenho 18 anos.
-Cursando Engenharia de Software na PUC.
+Cursando Engenharia de Software na PUC (1º período).
 
 <!--
 **danilonadu/danilonadu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
