@@ -1,4 +1,4 @@
-Meu nome é Danilo Amaral Nadu, eu tenho 18 anos e estoy cursando Engenharia de Software na PUC (1º período).
+Meu nome é Danilo Amaral Nadu, eu tenho 18 anos e estou cursando Engenharia de Software na PUC (1º período).
 
 <!--
 **danilonadu/danilonadu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
